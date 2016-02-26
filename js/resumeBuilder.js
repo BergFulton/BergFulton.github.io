@@ -285,7 +285,7 @@ var education = {
         'dates': '2007',
         'url': 'http://www.otterbein.edu'
     }, {
-        'name': 'Irish-American Scholars Exchange',
+        'name': 'Irish American Scholars Exchange',
         'location': 'Belfast, Northern Ireland',
         'degree': 'Independent study abroad',
         'major': ['Honors thesis research and writing'],
